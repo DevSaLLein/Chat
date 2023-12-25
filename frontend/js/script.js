@@ -84,7 +84,7 @@ const handleLogin = (event) => {
     login.style.display = 'none';
     chat.style.display = 'flex';
 
-    websocket = new WebSocket('wss://chat-api-xpgt.onrender.com'); 
+    websocket = new WebSocket('wss://chat-api-xpgt.onrender.com');
     websocket.onmessage = processMessage;
 }
 
