@@ -1,4 +1,4 @@
-<h1 align="center">Chat App</h1>
+<h1 align="center"> 📱Chat App</h1>
 
 ## 💻Projeto
   - Sobre
